@@ -5,10 +5,19 @@ html, body {
 }
 
 .title{
+    font-size: 45px;
     text-align: center;
+    padding: 5%;
 }
 
 .info {
-    text-align: center;
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
     justify-content: center;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    line-height: 30px;
 }
+
