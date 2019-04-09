@@ -3,3 +3,12 @@ html, body {
     height: 100%;
     margin: 0;
 }
+
+.title{
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+    justify-content: center;
+}
