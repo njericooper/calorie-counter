@@ -1,3 +1,3 @@
-var caloriesBurned = new caloriesBurned{
+var caloriesBurned = new caloriesBurned, {
 
 }
